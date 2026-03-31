@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "情熱大陸",
+  "base_artist": "葉加瀬太郎",
+  "createdAt": "2026-03-31T20:45:02.316485Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "情熱大陸",
+      "artist": "葉加瀬太郎 with 小松亮太",
+      "has_synced": false,
+      "path": "select/01_情熱大陸_葉加瀬太郎_with_小松亮太.txt"
+    }
+  ]
+}
